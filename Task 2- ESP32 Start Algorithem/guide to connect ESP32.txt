@@ -1,0 +1,4 @@
+##**Steps Connecting ESP32 to Your Computer:**
+To establish a connection between an ESP32 development board and a computer for programming and testing purposes you should do the following:
+
+## **- Step 1: Gather Required Materials**
