@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Speech-Controlled Device</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="container">
+    <h1>Speech-Controlled Arduino/ESP32</h1>
+    <p>Click the button, then say "Right" / "Left" or "يمين" / "يسار".</p>
+    <button id="start-btn">Start Listening</button>
+    <button id="connect-btn">Connect to Device</button>
+
+    <div id="result-container">
+      <h3>Transcription:</h3>
+      <p id="result-text">Press "Start Listening" and speak...</p>
+    </div>
+  </div>
+  
+  <script src="script.js"></script>
+</body>
+</html>
