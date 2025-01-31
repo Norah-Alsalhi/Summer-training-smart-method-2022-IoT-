@@ -1,5 +1,5 @@
 
-# **Summer training 2022:**
+                                                                            # **Summer training 2022:**
 **This repository contains all the tasks I worked on as an intern at Smart Methods, specializing in Internet of Things (IoT) technology, over a two-month period**
 ----------------------------------------------
 
