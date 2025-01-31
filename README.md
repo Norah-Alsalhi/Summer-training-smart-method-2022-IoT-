@@ -11,5 +11,7 @@
 #### - **`The Second Task [ESP32 Start Algorithem]`** :
 ###### Write a guide to connect ESP32 to your computer.
 ---------------------------------------------
+#### - **The Third Task `[Develop a website that uses the Web Serial API]`**:
+###### Enhance the website created in the previous step (task 1) by adding serial port communication capabilities using the Web Serial API.  This will enable the website to connect to and control external devices via a serial connection.
 
 
