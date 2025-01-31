@@ -12,6 +12,6 @@
 ###### Write a guide to connect ESP32 to your computer.
 ---------------------------------------------
 #### - **The Third Task `[Develop a website that uses the Web Serial API]`**:
-###### Enhance the website created in the previous step (task 1) by adding serial port communication capabilities using the Web Serial API.  This will enable the website to connect to and control external devices via a serial connection.
+###### Enhance the website created in the previous step (task 1) by adding serial port communication capabilities using the Web Serial API.  This will enable the website to connect to and control external devices via a serial connection. This project uses the Web Serial API to connect a website to an Arduino/ESP32.  The website takes spoken commands (Arabic or English), displays the transcribed text, and then sends commands to the microcontroller to control its direction (left or right).  The Web Speech Recognition API handles voice input and transcription.
 
 
